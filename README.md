@@ -25,6 +25,7 @@ This project was developed at the [RocketSeat OmniStack Week 6](https://rocketse
 -  [Mongoose](https://mongoosejs.com/)
 -  [Multer](https://github.com/expressjs/multer)
 -  [Socket.io](https://socket.io/)
+-  [Cors](https://github.com/expressjs/cors)
 -  [axios](https://github.com/axios/axios)
 -  [VS Code][vc]
 
